@@ -13,7 +13,7 @@ export default function Testimonials() {
 				<h3 className="text-center text-primary-content uppercase">
 					Testimonials
 				</h3>
-				<p className="text-center text-secondary-content">
+				<p className="text-center text-secondary">
 					What our clients are saying
 				</p>
 			</div>
