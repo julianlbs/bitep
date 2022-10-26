@@ -17,6 +17,7 @@ export default function Home() {
 				<WhoIsFor />
 			</div>
 			<Testimonials />
+			<div className="mb-24"></div>
 		</div>
 	);
 }

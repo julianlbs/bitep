@@ -27,7 +27,7 @@ export default function Testimonials() {
 					prevArrow={<PreviousBtn />}
 					nextArrow={<NextBtn />}
 				>
-					<div className="!flex !flex-col !gap-5 !justify-center !items-center !px-12">
+					<div className="!flex !flex-col !gap-5 !justify-center !items-center !pl-16 !pr-12">
 						<Avatar />
 						<p className="text-center">
 							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita
