@@ -21,7 +21,7 @@ export default function WhoIsFor() {
 				/>
 			</div>
 			<div className="flex flex-col items-center gap-6">
-				<div className="overflow-hidden flex flex-wrap justify-center p-2 gap-2 w-[348px] sm:w-[500px] lg:w-[800px] bg-base-100 shadow">
+				<div className="self-end overflow-hidden flex flex-wrap justify-center p-2 gap-2 w-[348px] sm:w-[500px] lg:w-[800px] bg-base-100 shadow">
 					<div>
 						<Image
 							src="/web-developer.svg"
@@ -42,7 +42,7 @@ export default function WhoIsFor() {
 						</p>
 					</div>
 				</div>
-				<div className="overflow-hidden flex flex-wrap justify-center p-2 gap-2 w-[348px] sm:w-[500px] lg:w-[800px] bg-base-100 shadow">
+				<div className="self-start overflow-hidden flex flex-wrap justify-center p-2 gap-2 w-[348px] sm:w-[500px] lg:w-[800px] bg-base-100 shadow">
 					<div className="flex flex-col">
 						<h4 className="text-primary leading-tight">
 							Web Development Agencies

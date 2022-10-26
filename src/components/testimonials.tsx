@@ -8,7 +8,7 @@ import { IconContext } from "react-icons";
 
 export default function Testimonials() {
 	return (
-		<section className="container bg-[#0f62ff]">
+		<section className=" bg-[#0f62ff] p-5">
 			<div className=" mb-12">
 				<h3 className="text-center text-primary-content uppercase">
 					Testimonials
