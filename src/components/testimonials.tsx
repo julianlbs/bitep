@@ -9,7 +9,7 @@ import { IconContext } from "react-icons";
 export default function Testimonials() {
 	return (
 		<section className="container">
-			<div className=" mb-20">
+			<div className=" mb-12">
 				<h3 className="text-center text-primary uppercase">Testimonials</h3>
 				<p className="text-center text-secondary">
 					What our clients are saying

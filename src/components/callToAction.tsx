@@ -3,7 +3,7 @@ import MainImage from "../../public/undraw_outer_space_re_u9vd.svg";
 
 export default function CallToAction() {
 	return (
-		<section className="container flex flex-wrap justify-center items-center  bg-[url(../../public/symbol-scatter-3-haikei.svg)] bg-center">
+		<section className=" w-screen flex flex-wrap justify-center items-center  bg-[url(../../public/symbol-scatter-3-haikei.svg)] bg-center">
 			<div className="max-w-md w-full md:w-[50%] flex flex-col gap-3 bg-white p-8 bg-opacity-[85%] rounded">
 				<h3 className="text-secondary-content">
 					Bring your customers to us and get{" "}

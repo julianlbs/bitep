@@ -13,7 +13,9 @@ export default function Home() {
 				<VectorOne />
 			</div>
 			<GetPaid />
-			<WhoIsFor />
+			<div className="mt-24 mb-24">
+				<WhoIsFor />
+			</div>
 			<Testimonials />
 		</div>
 	);

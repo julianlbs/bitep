@@ -20,7 +20,7 @@ export default function GetPaid() {
 					<Image src={GetPaidImage} fill alt="" />
 				</div>
 				<div className="max-w-md flex flex-col gap-6">
-					<div>
+					<div className=" card bg-base-100 shadow p-4">
 						<div className="flex gap-2 items-center">
 							<Image
 								src="/user-svgrepo-com.svg"
@@ -36,7 +36,7 @@ export default function GetPaid() {
 						</p>
 					</div>
 
-					<div>
+					<div className="card bg-base-100 shadow p-4">
 						<div className="flex gap-2 items-center">
 							<Image
 								src="/money-svgrepo-com.svg"
@@ -48,7 +48,8 @@ export default function GetPaid() {
 						</div>
 						<p>
 							Once your referrals pay for their account, your earn a{" "}
-							<strong>15% lifetime cut</strong> of every transaction
+							<strong className="text-primary">15% lifetime cut</strong> of
+							every transaction
 						</p>
 					</div>
 				</div>
